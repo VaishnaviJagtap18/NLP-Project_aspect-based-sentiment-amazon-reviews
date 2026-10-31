@@ -4,6 +4,8 @@ Classify Amazon product reviews as **positive, negative or neutral**, work out *
 
 > A review like *"Great sound but the delivery was late and the price is too high"* is not simply "mixed". This project breaks it down: **performance → positive, delivery → negative, price → negative**.
 
+**🔴 Live demo: [Open the dashboard](https://nlp-project-aspectextraction.streamlit.app/)**
+
 ---
 
 ## Table of contents
