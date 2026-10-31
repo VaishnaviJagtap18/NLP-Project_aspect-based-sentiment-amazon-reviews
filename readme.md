@@ -212,16 +212,6 @@ All files are written to `outputs/`.
 ![Aspect-wise sentiment](docs/dashboard.png)
 -->
 
-## Results
-
-Fill this table with the numbers printed by `pipeline.py` (also saved in `outputs/metrics.json`).
-
-| Model | Accuracy | Macro-F1 |
-|---|---|---|
-| TF-IDF + Logistic Regression | _fill in_ | _fill in_ |
-| Pretrained transformer (optional) | _fill in_ | _fill in_ |
-
-Add your key findings here, for example which aspect has the highest and lowest net sentiment for the product you analysed.
 
 ## Limitations
 - **Class imbalance**: most reviews are 4-5 stars, so negative and neutral examples are scarce and neutral is the hardest class.
