@@ -1,0 +1,5 @@
+nlpvenv/
+.venv/
+__pycache__/
+outputs/
+*.csv

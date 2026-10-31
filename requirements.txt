@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+joblib
+streamlit
+plotly
+matplotlib
+wordcloud
+# only needed for --backend hf (pretrained transformer)
+# transformers
+# torch
